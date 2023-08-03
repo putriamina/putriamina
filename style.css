@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #ffa500;
+  background-color: #ffacc99;
   color: #fff;
   text-align: center;
   padding: 1rem 0;
@@ -22,7 +22,7 @@ h2 {
 }
 
 img {
-  width: 150px;
+  width: 800px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
